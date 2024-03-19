@@ -1,0 +1,466 @@
+- WordPress
+speakersforschools.org
+intrepidpowerboats.com
+codevidhya.com
+pixbrand.org
+cfbnj.org
+mominautosales.ca
+sandnessushi.com
+
+
+http://www.titletap.com/
+https://www.chessmasterconnections.com/
+http://www.nutromics.com.au/
+https://www.konferexegroup.com/
+https://www.tomexpo.com/
+http://www.teapot-creation.com
+http://citizenscapitalcorp.com
+https://www.cabletv.com
+http://paycheckcollector.com/
+http://www.planahead.in
+https://tridot.com/
+https://www.la-maison-chic.co.uk/
+https://jenjoes.com/
+http://www.reedsigns.com.au
+http://beyondlife.in
+https://michaelshomesinc.com
+http://charmedrunning.com/
+http://boweryfarming.com/
+http://www.gofinancialplan.com
+https://www.goodmoneying.com
+https://www.houseofhome.com.au 
+http://jsfadvisors.com
+http://www.hwtc.com.pk/ 
+http://www.kirantelang.com
+http://bellashuttersandblinds.com.au
+http://www.pakpetrochem.com/ 
+https://alarmbands.com
+http://leemarine.com
+http://www.snpfp.com
+https://www.gearstream.com/
+https://www.researchprospect.com/ 
+http://www.arkfp.in
+http://www.vrwealthadvisors.com
+https://www.advancity.com/en/
+https://www.trunomi.com
+https://oveit.com
+https://www.buy365.se/
+http://www.lightsdirect.com.au
+http://www.maxsecfp.in
+http://www.glamsquad.com (WP, Angular)
+http://davidgev.com
+http://olszanska.pl/
+http://www.bhutantravelling.com/
+https://miegolftourism.org/
+https://into23.com/
+
+
+- Chat Web
+services.tochat.be
+
+
+- Ruby on Rails
+https://placeit.net/
+
+
+- WordPress - woocommerce
+strongkong.in
+freshlylo.com
+browns.in
+
+
+
+- CakePHP
+http://kursk.igid.ru
+http://www.cestyl.cz
+
+
+
+- Drupal
+idam.com
+bergsportschule.com
+sportievedate.nl
+
+
+- Python
+eagleburgmann.com.au
+
+
+- Django
+prezi.com (Python)
+eventbrite.com (Python)
+
+
+
+- Web Moblie Design
+https://www.chikurintei.jp/   (GoogleMap)
+
+
+
+- Shopify
+portofmokha.com
+couple.co
+mishky.com
+highkey.com
+districtloom.com
+pensnmore.com
+thefountainofjuice.com
+hampdenclothing.com
+
+
+
+- Ecommerce
+michaels.com
+joann.com
+bettexklusiv.de
+
+
+- Codeigniter
+freeseomanager.com
+myelaaj.com
+golfand.com
+gimmegolf.com.au
+vivakitchens.co.in
+
+
+
+- PHP
+thefranchisebuilders.com
+couleecreative.com
+nationalforest.org
+topparcel.com
+networkafterwork.com
+uvelanghe.it
+trulymadly.com
+aftercollege.com
+computergeeks.com.cy
+poweroftext.com
+webcurso.es
+
+
+
+- React
+jomi.com
+jdlandscaping.net(Next.js)
+collegedunia.com(Next.js)
+sailogy.com (Next.js)
+reap.global (Next.js)
+deals.com.au
+fancourtgolf.com
+jobandtalent.com (Ruby)
+healthrangerstore.com (Shopify)
+tradingview.com
+jeffwylerchevroletofcolumbus.com
+deanslawdictionary.com (Socket.io)
+bnkle.com (Ruby)
+boostr.com
+modifi.com
+equiconx.com
+https://www.squadhelp.com/
+https://www.bitrue.com/
+
+
+- CMS
+telmie.com
+
+
+- Angular
+eduhubspot.com
+pygmalios.com
+mymedipocket.com
+zbrdst.com
+
+
+
+- AngularJS
+botb.com
+lybrate.com
+
+
+
+- Django
+blend4web.com (Python)
+fundedbyme.com (Python)
+suitopia.com (Python)
+
+
+
+- ASP.net
+falconwings.com
+oaktreecapital.com
+harcourts.com.au
+createandcraft.com
+
+
+
+- JavaScript library
+orangetheory.com
+
+
+- Spring Boot
+https://storitve-mkgp.gov.si/esk-zunanji/
+
+
+- Squarespace Ecommerce (CMS)
+glpcreative.com
+flowkana.com
+northviewcondominiums.com
+
+
+
+- JQuery
+firewatchgame.com
+ereality.cz
+
+
+
+- Vue.js
+stan.store
+eventssmarter.com
+sendit.media(Nuxt.js)
+behance.net
+eventssmarter.com
+zmotinstitute.com
+familytree365.com
+uxpressia.com
+https://ru.shein.com/ (Ecommerce)
+
+
+
+
+- Express
+https://ee.vnumedia.app/ (Socket.io)
+
+
+
+
+- AIpine.js
+https://getzash.com/
+
+
+
+
+---------------------BlockChain sites-----------------------
+NFT Marketplace
+cryptokitties.co
+thecheetahgang.com
+cosmicpaws.io
+powned.co
+
+
+
+Market place app
+bookertee.com
+https://apps.apple.com/in/app/bookertee/id1555221806
+
+
+
+Wallets
+https://play.google.com/store/apps/details?id=com.cryptokara
+https://demo.hogiwallet.com/
+
+
+
+Food ordering
+https://apps.apple.com/us/app/hungrynaki/id944200980
+hungrynaki.com
+homechef.com
+nkagro.com
+
+
+Ecommerce
+cutsclothing.com
+faballey.com
+stelladot.com
+viari.in
+
+
+
+React Native:
+https://play.google.com/store/apps/details?id=io.instamobile.chat.rn
+https://play.google.com/store/apps/details?id=com.wecarcarerntheme
+
+
+App
+https://play.google.com/store/apps/details?id=com.megasys.profit(training)
+https://play.google.com/store/apps/details?id=com.hwpo_training_app(training)
+https://apps.apple.com/ru/app/dietlys/id1602706598(training)
+https://play.google.com/store/apps/details?id=com.scoresandodds.mobile(soccer betting app)
+
+
+- BlockChain
+http://dongletrade.com    : Cex
+https://znxscan.com/    : block Explorer
+http://finance.zilionixx.com/   : NFT marketplace
+
+https://zilionixx.com
+https://dongletrade.com
+https://app.dongletrade.com
+https://play.unicial.org/
+
+
+
+
+https://t.me/freelancers_int
+https://t.me/freelancers_intl
+https://t.me/ethereum_jobs_market
+https://t.me/freelancersit
+https://t.me/github_repos
+https://t.me/Blockchain_Jobs
+https://t.me/blockchain_smart_contracts
+https://t.me/soliditydevjobs
+https://t.me/SmartContractDevelopers
+https://t.me/internationalfreelancers1
+https://t.me/Solidity_devs
+https://t.me/ETHEREUMJOBSTRON
+https://t.me/thefrontend_discuss
+https://t.me/prograchallenges
+https://t.me/referredjobs
+https://t.me/reactjsdev001
+
+
+
+
+
+
+------------------------Past works by framework-------------------
+Svelte project
+https://services.tochat.be
+
+
+1. JavaScript frameworks
+	b. Angular
+		https://zaboreats.com/
+		https://aukro.cz
+		https://www.eduhubspot.com
+	c. Vue.js
+		https://sendit.media/
+		https://behance.net/
+		https://jornio.com/
+		https://www.familytree365.com/ 		(Nuxt.js)
+		https://seekadoo.com/				(Nuxt.js)
+		https://uxpressia.com/				(Nuxt.js)
+
+	d. Next.js
+		https://jomi.com 		(React, Next.js)
+		https://wedo.lu (Laravel, React.js, Next, Elasticsearch, Redis)
+		https://telmie.com/ (React.js, Gatsby, SSR, React hooks, Redux, )
+
+
+2. Php frameworks
+	a. Laravel
+		http://timetation.ch/
+		https://todaytourism.com/
+	b. CodeIgniter
+		http://gimmegolf.com.au
+		http://vivakitchens.co.in/
+	d. WordPress - woocommerce
+		https://idestiny.in/
+		https://freshlylo.com/
+	e. Magento
+		https://unitedbroadcast.com/
+		https://fabhabitat.com/
+	f. CakePHP
+		http://www.cestyl.cz
+4. Drupal
+		https://idam.com/
+		https://www.kaminari.com/					(Payment method)
+		https://www.bergsportschule.com/	
+		http://www.dividenc.com/
+		http://www.pretox.com/
+		https://www.sportievedate.nl/en
+5. Python
+		http://www.eagleburgmann.com.au/
+
+   Django	
+	✔ https://prezi.com/
+6  Java SpringBoot
+		https://eduversity.ai/		(Angular)
+
+7. E-Commerce Platform
+	a. Shopify
+		https://michaels.com/
+		https://tonysonline.co.nz
+		https://highkey.com/
+		https://createandcraft.com/us/
+		https://stuff4crafts.com/				(Magento)
+		https://shop.ohauwines.co.nz/
+---------------------BlockChain sites-----------------------
+	NFT Marketplace
+		https://kitchenft.io/
+		https://ryptokitties.co/ (Cryptocock)
+		https://sandbox.game
+		https://xoxno.com/
+	
+	Market place app
+		https://bookertee.com/
+		https://apps.apple.com/in/app/bookertee/id1555221806
+	ICO 
+		http://ebbicoin.com/					(Angular, CodeIgniter)
+
+	dApp(Angular + web3.js)
+		https://xion.app
+
+	Wallets
+		https://wallet.elrond.com/
+
+	Metaverse
+		https://www.oppo.com/en/events/innoday2021/
+
+
+------------------------Past works by sphere-------------------
+	Food ordering
+		https://www.ripplefoods.com/
+		https://apps.apple.com/us/app/hungrynaki/id944200980
+		https://hungrynaki.com/
+		https://www.homechef.com/
+		https://www.nkagro.com/
+		
+	Ecommerce
+		https://cutsclothing.com/
+		https://www.faballey.com/A
+		https://www.stelladot.com/
+		https://www.viari.in/
+		
+	Health booking
+		https://bookinghealth.com
+		https://en.bookimed.com
+
+	Financial Analysis
+		http://www.datarails.io/
+
+	Blog 
+		http://www.runwaysandrattles.com
+
+	Industrial 
+		http://gvsab.nu
+
+	Lending Solutions 
+		http://finnlendingsolutions.com.au
+
+	Specialist 
+		http://www.thefranchisebuilders.com
+
+9.Betting site
+	https://www.vbet.com/en/promotions/all	
+
+10. Article
+	https://medium.com/@zilionixx_foundation
+
+
+
+
+
+- NFT
+https://cookie.game/#/app
+https://0xmfers.com/
+
+
+
+
+
+-DeFi
+https://app.highlord.io
+https://potluckprotocol.com/
+
+https://sougen.co (React, Node, Howler.js, Tailwind CSS, Next, Three.js)
